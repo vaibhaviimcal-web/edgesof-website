@@ -4,6 +4,13 @@ const nextConfig = {
   images: {
     domains: ['nyc3.digitaloceanspaces.com'],
     formats: ['image/webp', 'image/avif'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'nyc3.digitaloceanspaces.com',
+        pathname: '/bhindi-drive/**',
+      },
+    ],
   },
   async headers() {
     return [
