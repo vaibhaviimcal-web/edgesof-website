@@ -7,7 +7,11 @@ function Navigation() {
     <nav className="nav">
       <div className="nav-container">
         <Link href="/" className="nav-logo">
-          <img src="/assets/logo-white.png" alt="Edgesof Solutions" />
+          <img 
+            src="https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-15-24-961Z-040a87cc-nano-banana-pro_1764803724841.png" 
+            alt="Edgesof Solutions" 
+            style={{ height: '32px', width: 'auto' }}
+          />
         </Link>
         <ul className="nav-links">
           <li><Link href="/about">About</Link></li>
