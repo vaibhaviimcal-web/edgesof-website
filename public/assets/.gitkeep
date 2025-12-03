@@ -1,0 +1,24 @@
+# Assets Directory
+
+Place your logo and image files here:
+
+## Logo Files
+- logo-white.png (or .svg) - Main navigation logo
+- logo-black.png (or .svg) - Black variant
+- logo-accent.png (or .svg) - Electric blue variant
+
+## Hero & Case Study Images
+- hero-mockup.jpg - Homepage hero image (1920x1080px)
+- case-krofta.png - Krofta case study screenshot (1600x900px)
+- case-emr.jpg - Healthcare EMR screenshot (1600x900px)
+
+## Temporary Placeholders
+The generated images from Nano Banana Pro are available at:
+- White logo: https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-15-24-961Z-040a87cc-nano-banana-pro_1764803724841.png
+- Black logo: https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-15-39-016Z-86f619c7-nano-banana-pro_1764803738881.jpg
+- Accent logo: https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-15-54-265Z-8b863267-nano-banana-pro_1764803754158.jpg
+- Hero mockup: https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-17-43-078Z-f3d325b3-nano-banana-pro_1764803862973.jpg
+- EMR case: https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-17-58-612Z-5f723e5d-nano-banana-pro_1764803878368.jpg
+- Krofta case: https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-18-23-771Z-042b8388-nano-banana-pro_1764803903653.png
+
+Download these and rename them appropriately, or replace with your own assets.
