@@ -72,7 +72,11 @@ export default function Home() {
             </h2>
             <div className="grid grid-2">
               <div className="card">
-                <img src="/assets/hero-mockup.jpg" alt="SaaS Dashboard" style={{ width: '100%', borderRadius: 'var(--border-radius)', marginBottom: 'var(--spacing-sm)' }} />
+                <img 
+                  src="https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-17-43-078Z-f3d325b3-nano-banana-pro_1764803862973.jpg" 
+                  alt="SaaS Dashboard" 
+                  style={{ width: '100%', borderRadius: 'var(--border-radius)', marginBottom: 'var(--spacing-sm)' }} 
+                />
                 <h3>SaaS Dashboard</h3>
                 <p>Complete redesign of enterprise analytics platform with 40% improvement in user engagement.</p>
                 <Link href="/case/saas-dashboard" style={{ color: 'var(--color-accent)', marginTop: 'var(--spacing-sm)', display: 'inline-block' }}>
@@ -80,7 +84,11 @@ export default function Home() {
                 </Link>
               </div>
               <div className="card">
-                <img src="/assets/case-emr.jpg" alt="Healthcare EMR" style={{ width: '100%', borderRadius: 'var(--border-radius)', marginBottom: 'var(--spacing-sm)' }} />
+                <img 
+                  src="https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-17-58-612Z-5f723e5d-nano-banana-pro_1764803878368.jpg" 
+                  alt="Healthcare EMR" 
+                  style={{ width: '100%', borderRadius: 'var(--border-radius)', marginBottom: 'var(--spacing-sm)' }} 
+                />
                 <h3>Healthcare EMR</h3>
                 <p>Modern electronic medical records system serving 50+ clinics with HIPAA compliance.</p>
                 <Link href="/case/clinic-emr" style={{ color: 'var(--color-accent)', marginTop: 'var(--spacing-sm)', display: 'inline-block' }}>
