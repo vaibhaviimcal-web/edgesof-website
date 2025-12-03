@@ -8,7 +8,7 @@ export default function Work() {
       title: 'Krofta Corporate Website',
       category: 'Web Experience',
       description: 'Premium corporate website redesign for a leading industrial solutions provider.',
-      image: '/assets/case-krofta.png',
+      image: 'https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-18-23-771Z-042b8388-nano-banana-pro_1764803903653.png',
       tags: ['Web Design', 'Brand Identity', 'Next.js']
     },
     {
@@ -16,7 +16,7 @@ export default function Work() {
       title: 'Healthcare EMR System',
       category: 'Custom Software',
       description: 'Modern electronic medical records platform serving 50+ clinics.',
-      image: '/assets/case-emr.jpg',
+      image: 'https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-17-58-612Z-5f723e5d-nano-banana-pro_1764803878368.jpg',
       tags: ['Healthcare', 'EMR', 'HIPAA Compliance']
     },
     {
@@ -24,7 +24,7 @@ export default function Work() {
       title: 'SaaS Analytics Dashboard',
       category: 'Web Application',
       description: 'Complete redesign of enterprise analytics platform with 40% engagement boost.',
-      image: '/assets/hero-mockup.jpg',
+      image: 'https://nyc3.digitaloceanspaces.com/bhindi-drive/files/cab453ed-7d3e-4dfa-9012-038dbc50c1c5/2025-12-03T23-17-43-078Z-f3d325b3-nano-banana-pro_1764803862973.jpg',
       tags: ['SaaS', 'Dashboard', 'Analytics']
     }
   ]
